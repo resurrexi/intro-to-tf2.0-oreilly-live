@@ -1,7 +1,7 @@
 ## Please list additional packages with version numbers
 
 ipython==6.4.0
-pillow==5.1.0
+pillow==9.3.0
 graphviz==0.10.1
 ipywidgets==7.0.5
 matplotlib==2.2.2
